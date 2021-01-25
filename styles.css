@@ -1,0 +1,87 @@
+body {
+    Background-image: url("https://m.media-amazon.com/images/I/81ITtgDhcXL._AC_SS350_.jpg");
+    text-align: center;
+}
+
+h2 {
+    background-color: #5c8a8a;
+    font-family: "helvetica";
+}
+
+h3 {
+    color: #ffffff;
+}
+
+img {
+    width: 500px;
+    border: 4px groove #8b0000;
+    margin: 15px;
+}
+
+p:hover {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    background-color: #D5391D;
+}
+
+li {
+    font-family: 'Big Shoulders Inline Text', cursive;
+    font-size: 1.5em;
+}
+
+a:hover {
+    font-family: 'Xanh Mono', monospac;
+    background-color: #8b0000;
+}
+
+.R {
+    padding: 2px;
+    border: 4px inset #8b0000;
+    background-color: #F41010;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    color: #fff;
+}
+.B {
+    padding: 2px;
+    border: 4px dashed #fff;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.G {
+    padding: 2px;
+    border: 4px outset #d4a537;
+    background-color: #FFD700;
+    font-family: 'Big Shoulders incline text', cursive;
+    color: #000000;
+}
+
+.W {
+    padding: 2px;
+    border: 4px double #000000;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: 'Xanh Mono', monospac;
+}
+
+.Will {
+    background-image: linear-gradient(to top, #5c8a8a, #996633);
+    margin: 4px;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+    border: double #000;
+    font-family: 'Goldman', cursive;
+    color: #8C92AC;
+}
+
+.best:hover {
+    background-image: linear-gradient(to top, #5c8a8a, #996633);
+    margin: 0px;
+    display: inline-block;
+    font-size: 6em;
+    padding: 0.25em;
+    border: double #000000;
+    font-family: "helvetica";
+}
